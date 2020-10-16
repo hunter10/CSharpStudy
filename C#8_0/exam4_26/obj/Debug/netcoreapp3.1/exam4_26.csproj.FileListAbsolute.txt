@@ -1,0 +1,13 @@
+D:\Work\CSharp_Study\exam4_26\bin\Debug\netcoreapp3.1\exam4_26.exe
+D:\Work\CSharp_Study\exam4_26\bin\Debug\netcoreapp3.1\exam4_26.deps.json
+D:\Work\CSharp_Study\exam4_26\bin\Debug\netcoreapp3.1\exam4_26.runtimeconfig.json
+D:\Work\CSharp_Study\exam4_26\bin\Debug\netcoreapp3.1\exam4_26.runtimeconfig.dev.json
+D:\Work\CSharp_Study\exam4_26\bin\Debug\netcoreapp3.1\exam4_26.dll
+D:\Work\CSharp_Study\exam4_26\bin\Debug\netcoreapp3.1\exam4_26.pdb
+D:\Work\CSharp_Study\exam4_26\obj\Debug\netcoreapp3.1\exam4_26.csprojAssemblyReference.cache
+D:\Work\CSharp_Study\exam4_26\obj\Debug\netcoreapp3.1\exam4_26.AssemblyInfoInputs.cache
+D:\Work\CSharp_Study\exam4_26\obj\Debug\netcoreapp3.1\exam4_26.AssemblyInfo.cs
+D:\Work\CSharp_Study\exam4_26\obj\Debug\netcoreapp3.1\exam4_26.csproj.CoreCompileInputs.cache
+D:\Work\CSharp_Study\exam4_26\obj\Debug\netcoreapp3.1\exam4_26.dll
+D:\Work\CSharp_Study\exam4_26\obj\Debug\netcoreapp3.1\exam4_26.pdb
+D:\Work\CSharp_Study\exam4_26\obj\Debug\netcoreapp3.1\exam4_26.genruntimeconfig.cache

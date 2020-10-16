@@ -1,0 +1,13 @@
+D:\Work\CSharp_Study\C#DataStructure\exam2_4\bin\Debug\netcoreapp3.1\exam2_4.exe
+D:\Work\CSharp_Study\C#DataStructure\exam2_4\bin\Debug\netcoreapp3.1\exam2_4.deps.json
+D:\Work\CSharp_Study\C#DataStructure\exam2_4\bin\Debug\netcoreapp3.1\exam2_4.runtimeconfig.json
+D:\Work\CSharp_Study\C#DataStructure\exam2_4\bin\Debug\netcoreapp3.1\exam2_4.runtimeconfig.dev.json
+D:\Work\CSharp_Study\C#DataStructure\exam2_4\bin\Debug\netcoreapp3.1\exam2_4.dll
+D:\Work\CSharp_Study\C#DataStructure\exam2_4\bin\Debug\netcoreapp3.1\exam2_4.pdb
+D:\Work\CSharp_Study\C#DataStructure\exam2_4\obj\Debug\netcoreapp3.1\exam2_4.csprojAssemblyReference.cache
+D:\Work\CSharp_Study\C#DataStructure\exam2_4\obj\Debug\netcoreapp3.1\exam2_4.AssemblyInfoInputs.cache
+D:\Work\CSharp_Study\C#DataStructure\exam2_4\obj\Debug\netcoreapp3.1\exam2_4.AssemblyInfo.cs
+D:\Work\CSharp_Study\C#DataStructure\exam2_4\obj\Debug\netcoreapp3.1\exam2_4.csproj.CoreCompileInputs.cache
+D:\Work\CSharp_Study\C#DataStructure\exam2_4\obj\Debug\netcoreapp3.1\exam2_4.dll
+D:\Work\CSharp_Study\C#DataStructure\exam2_4\obj\Debug\netcoreapp3.1\exam2_4.pdb
+D:\Work\CSharp_Study\C#DataStructure\exam2_4\obj\Debug\netcoreapp3.1\exam2_4.genruntimeconfig.cache

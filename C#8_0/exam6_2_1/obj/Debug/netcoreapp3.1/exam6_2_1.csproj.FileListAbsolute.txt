@@ -1,0 +1,13 @@
+D:\Work\CSharp_Study\C#8_0\exam6_2_1\bin\Debug\netcoreapp3.1\exam6_2_1.exe
+D:\Work\CSharp_Study\C#8_0\exam6_2_1\bin\Debug\netcoreapp3.1\exam6_2_1.deps.json
+D:\Work\CSharp_Study\C#8_0\exam6_2_1\bin\Debug\netcoreapp3.1\exam6_2_1.runtimeconfig.json
+D:\Work\CSharp_Study\C#8_0\exam6_2_1\bin\Debug\netcoreapp3.1\exam6_2_1.runtimeconfig.dev.json
+D:\Work\CSharp_Study\C#8_0\exam6_2_1\bin\Debug\netcoreapp3.1\exam6_2_1.dll
+D:\Work\CSharp_Study\C#8_0\exam6_2_1\bin\Debug\netcoreapp3.1\exam6_2_1.pdb
+D:\Work\CSharp_Study\C#8_0\exam6_2_1\obj\Debug\netcoreapp3.1\exam6_2_1.csprojAssemblyReference.cache
+D:\Work\CSharp_Study\C#8_0\exam6_2_1\obj\Debug\netcoreapp3.1\exam6_2_1.AssemblyInfoInputs.cache
+D:\Work\CSharp_Study\C#8_0\exam6_2_1\obj\Debug\netcoreapp3.1\exam6_2_1.AssemblyInfo.cs
+D:\Work\CSharp_Study\C#8_0\exam6_2_1\obj\Debug\netcoreapp3.1\exam6_2_1.csproj.CoreCompileInputs.cache
+D:\Work\CSharp_Study\C#8_0\exam6_2_1\obj\Debug\netcoreapp3.1\exam6_2_1.dll
+D:\Work\CSharp_Study\C#8_0\exam6_2_1\obj\Debug\netcoreapp3.1\exam6_2_1.pdb
+D:\Work\CSharp_Study\C#8_0\exam6_2_1\obj\Debug\netcoreapp3.1\exam6_2_1.genruntimeconfig.cache

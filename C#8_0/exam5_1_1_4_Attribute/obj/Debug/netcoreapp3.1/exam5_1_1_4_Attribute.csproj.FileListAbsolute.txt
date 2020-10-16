@@ -1,0 +1,13 @@
+D:\Work\CSharp_Study\C#8_0\exam5_1_1_4_Attribute\bin\Debug\netcoreapp3.1\exam5_1_1_4_Attribute.exe
+D:\Work\CSharp_Study\C#8_0\exam5_1_1_4_Attribute\bin\Debug\netcoreapp3.1\exam5_1_1_4_Attribute.deps.json
+D:\Work\CSharp_Study\C#8_0\exam5_1_1_4_Attribute\bin\Debug\netcoreapp3.1\exam5_1_1_4_Attribute.runtimeconfig.json
+D:\Work\CSharp_Study\C#8_0\exam5_1_1_4_Attribute\bin\Debug\netcoreapp3.1\exam5_1_1_4_Attribute.runtimeconfig.dev.json
+D:\Work\CSharp_Study\C#8_0\exam5_1_1_4_Attribute\bin\Debug\netcoreapp3.1\exam5_1_1_4_Attribute.dll
+D:\Work\CSharp_Study\C#8_0\exam5_1_1_4_Attribute\bin\Debug\netcoreapp3.1\exam5_1_1_4_Attribute.pdb
+D:\Work\CSharp_Study\C#8_0\exam5_1_1_4_Attribute\obj\Debug\netcoreapp3.1\exam5_1_1_4_Attribute.csprojAssemblyReference.cache
+D:\Work\CSharp_Study\C#8_0\exam5_1_1_4_Attribute\obj\Debug\netcoreapp3.1\exam5_1_1_4_Attribute.AssemblyInfoInputs.cache
+D:\Work\CSharp_Study\C#8_0\exam5_1_1_4_Attribute\obj\Debug\netcoreapp3.1\exam5_1_1_4_Attribute.AssemblyInfo.cs
+D:\Work\CSharp_Study\C#8_0\exam5_1_1_4_Attribute\obj\Debug\netcoreapp3.1\exam5_1_1_4_Attribute.csproj.CoreCompileInputs.cache
+D:\Work\CSharp_Study\C#8_0\exam5_1_1_4_Attribute\obj\Debug\netcoreapp3.1\exam5_1_1_4_Attribute.dll
+D:\Work\CSharp_Study\C#8_0\exam5_1_1_4_Attribute\obj\Debug\netcoreapp3.1\exam5_1_1_4_Attribute.pdb
+D:\Work\CSharp_Study\C#8_0\exam5_1_1_4_Attribute\obj\Debug\netcoreapp3.1\exam5_1_1_4_Attribute.genruntimeconfig.cache

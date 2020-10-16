@@ -1,0 +1,13 @@
+D:\Work\CSharp_Study\exam4_22\bin\Debug\netcoreapp3.1\exam4_22.exe
+D:\Work\CSharp_Study\exam4_22\bin\Debug\netcoreapp3.1\exam4_22.deps.json
+D:\Work\CSharp_Study\exam4_22\bin\Debug\netcoreapp3.1\exam4_22.runtimeconfig.json
+D:\Work\CSharp_Study\exam4_22\bin\Debug\netcoreapp3.1\exam4_22.runtimeconfig.dev.json
+D:\Work\CSharp_Study\exam4_22\bin\Debug\netcoreapp3.1\exam4_22.dll
+D:\Work\CSharp_Study\exam4_22\bin\Debug\netcoreapp3.1\exam4_22.pdb
+D:\Work\CSharp_Study\exam4_22\obj\Debug\netcoreapp3.1\exam4_22.csprojAssemblyReference.cache
+D:\Work\CSharp_Study\exam4_22\obj\Debug\netcoreapp3.1\exam4_22.AssemblyInfoInputs.cache
+D:\Work\CSharp_Study\exam4_22\obj\Debug\netcoreapp3.1\exam4_22.AssemblyInfo.cs
+D:\Work\CSharp_Study\exam4_22\obj\Debug\netcoreapp3.1\exam4_22.csproj.CoreCompileInputs.cache
+D:\Work\CSharp_Study\exam4_22\obj\Debug\netcoreapp3.1\exam4_22.dll
+D:\Work\CSharp_Study\exam4_22\obj\Debug\netcoreapp3.1\exam4_22.pdb
+D:\Work\CSharp_Study\exam4_22\obj\Debug\netcoreapp3.1\exam4_22.genruntimeconfig.cache
